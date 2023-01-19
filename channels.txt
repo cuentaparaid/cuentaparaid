@@ -43,6 +43,8 @@ http://127.0.0.1:6878/ace/getstream?id=3cf698c5626e6311c8fd88010227b838aa730da9
 http://127.0.0.1:6878/ace/getstream?id=c656fddd7c4f64dd821d111365ab8e496db5de15
 #EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,Liga bar 1080
 http://127.0.0.1:6878/ace/getstream?id=ed2a15319345fb0739590faf88d8be4cb1663bf3
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L Campeones M_HD
+http://127.0.0.1:6878/ace/getstream?id=feb117d613c6bd1960e1cb48d2b027452fc5c065
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 1080 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=2bac25f323be1de8208d6554337c2c8256bc32bc
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 1080 MultiAudio
