@@ -107,8 +107,6 @@ http://127.0.0.1:6878/ace/getstream?id=7264961f63dc9dc6ef7acee7371f7a76b6a02061
 http://127.0.0.1:6878/ace/getstream?id=0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Dazn liga 720
 http://127.0.0.1:6878/ace/getstream?id=05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
-#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,4k audio español
-http://127.0.0.1:6878/ace/getstream?id=acd1719e5ef4726c65b4999a914a3451723273a8
 #EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Bt sport 1  wrc montecarlo
 http://127.0.0.1:6878/ace/getstream?id=ab2b69970c0629bf0fa30dd61b0072adb4ac4d9c
 #EXTINF:-1 group-title="Otro contenido" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport tv 4  wrc montecarlo
