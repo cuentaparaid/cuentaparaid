@@ -17,6 +17,8 @@ http://127.0.0.1:6878/ace/getstream?id=bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 http://127.0.0.1:6878/ace/getstream?id=149a38e333de920753f1388c43247283bdb05f5b
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,laliga tv MultiAudio TEST calidad original
 http://127.0.0.1:6878/ace/getstream?id=0550416ea6d64cf9669fced8ce9aea2713820f6e
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,laliga TV  MultiAudio no apto para todos los dispositivos
+http://127.0.0.1:6878/ace/getstream?id=16150dafbbd4515a8b539a8e21e0f083f86416da
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,Liga _M_HD
 http://127.0.0.1:6878/ace/getstream?id=0e382ebf4e14e40ea75a89e437c5edb1904b2be0
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M.Liga 1080 Multiaudio
@@ -115,14 +117,14 @@ http://127.0.0.1:6878/ace/getstream?id=ab2b69970c0629bf0fa30dd61b0072adb4ac4d9c
 http://127.0.0.1:6878/ace/getstream?id=c300ecb07d854c1730b04ea022c3fb0a184d7801
 #EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,+Sport 360  wrc montecarlo 
 http://127.0.0.1:6878/ace/getstream?id=e1d74c79ab7b3991b3ed40b199abd0e8eb0ae511
-#EXTINF:-1 group-title="Otro contenido" tvg-id="BARCA TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,BETIS - BARÇA
-http://127.0.0.1:6878/ace/getstream?id=16150dafbbd4515a8b539a8e21e0f083f86416da
 #EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Movistar Fest 2:00 06/02/2023  Premios Grammy 
 http://127.0.0.1:6878/ace/getstream?id=e5dd056bbcbf637c7fa314288356a8024e426f18
 #EXTINF:-1 group-title="Otro contenido" tvg-id="TELECINCO HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a907.png" ,Telecinco 1080
 http://127.0.0.1:6878/ace/getstream?id=bb1982ae8d2d409d4ccd7a9f498042684e3532b5
 #EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Rally Suecia reparado
 http://127.0.0.1:6878/ace/getstream?id=3b1b3110e88c7af8aee6ea46fd9656cc08a79aa9
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,wrc  en Español
+http://127.0.0.1:6878/ace/getstream?id=1337384461e30979b22c63ca0c9e2804fb3e1091
 #EXTINF:-1 group-title="Otro contenido" tvg-id="TELEDEPORTE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-teledeporte-612.png" ,tdp 1080 (TeleDeporte)
 http://127.0.0.1:6878/ace/getstream?id=5a272a468eaf25feb032e2c5d377c6276b2299c7
 #EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,LA 1 1080
