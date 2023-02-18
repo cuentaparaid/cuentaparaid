@@ -129,6 +129,8 @@ http://127.0.0.1:6878/ace/getstream?id=1337384461e30979b22c63ca0c9e2804fb3e1091
 http://127.0.0.1:6878/ace/getstream?id=4cc5adc2fbcc4bb5a9f436130c5ec349d172cc2b
 #EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,ENTRENAMIENTOS  NASCAR
 http://127.0.0.1:6878/ace/getstream?id=bcfed416bb9e58d28b3099bd66885f7754418a9b
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Nascar Xfinity Series - Daytona - Carrera - 23:00h
+http://127.0.0.1:6878/ace/getstream?id=349adca6f4cd66bf9eb4bcac1d043c672a94ba23
 #EXTINF:-1 group-title="Otro contenido" tvg-id="TELEDEPORTE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-teledeporte-612.png" ,tdp 1080 (TeleDeporte)
 http://127.0.0.1:6878/ace/getstream?id=5a272a468eaf25feb032e2c5d377c6276b2299c7
 #EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,LA 1 1080
