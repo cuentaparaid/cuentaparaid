@@ -53,6 +53,8 @@ http://127.0.0.1:6878/ace/getstream?id=3cf698c5626e6311c8fd88010227b838aa730da9
 http://127.0.0.1:6878/ace/getstream?id=c656fddd7c4f64dd821d111365ab8e496db5de15
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,SMARTBANK
 http://127.0.0.1:6878/ace/getstream?id=ff029c7ae07b1c268f8b4d1dee14cc66e1d56324
+#EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,Manchester - Barsa
+http://127.0.0.1:6878/ace/getstream?id=6a712c507ac2ada6896615abaf039426bfa38e15
 #EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,Liga bar 1080
 http://127.0.0.1:6878/ace/getstream?id=ed2a15319345fb0739590faf88d8be4cb1663bf3
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L Campeones M_HD
@@ -113,8 +115,6 @@ http://127.0.0.1:6878/ace/getstream?id=0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 http://127.0.0.1:6878/ace/getstream?id=05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
 #EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,bydanny
 http://127.0.0.1:6878/ace/getstream?id=c957b0b3e9a5b7602cd7c769c8aa386b2e1a4f45
-#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,1080 español
-http://127.0.0.1:6878/ace/getstream?id=6a712c507ac2ada6896615abaf039426bfa38e15
 #EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Bt sport 1  wrc montecarlo
 http://127.0.0.1:6878/ace/getstream?id=ab2b69970c0629bf0fa30dd61b0072adb4ac4d9c
 #EXTINF:-1 group-title="Otro contenido" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport tv 4  wrc montecarlo
